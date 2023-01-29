@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @kirtimagam
-- 👀 I’m interested in reading.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 kirtimagam/kirtimagam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
